@@ -4,7 +4,7 @@
 This library is pretty simple. Built off of the official API, KitsuSearch is fast and returns pretty much all of the attributes returned by the API.
 https://kitsu.docs.apiary.io/#reference/media/anime/fetch-collection
 
-Any issues/comments/critiques let me hear them! Here on github or @TheBetterEnvy on Twitter.
+Any issues/comments/critiques let me hear them!
 
 ```javascript
 const KitsuSearch = require('kitsu-search');
